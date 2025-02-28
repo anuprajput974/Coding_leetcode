@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anuprajput974/Coding_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anuprajput974/Coding_leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1078-remove-outermost-parentheses](https://github.com/anuprajput974/Coding_leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anuprajput974/Coding_leetcode/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/anuprajput974/Coding_leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
