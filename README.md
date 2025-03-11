@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0001-two-sum) |
 | [0303-range-sum-query-immutable](https://github.com/anuprajput974/Coding_leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/anuprajput974/Coding_leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
