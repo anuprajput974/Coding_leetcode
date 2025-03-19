@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/anuprajput974/Coding_leetcode/tree/master/0725-split-linked-list-in-parts) |
 ## Stack
 |  |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anuprajput974/Coding_leetcode/tree/master/0013-roman-to-integer) |
+| [0142-linked-list-cycle-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/anuprajput974/Coding_leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anuprajput974/Coding_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/anuprajput974/Coding_leetcode/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
