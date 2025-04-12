@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/anuprajput974/Coding_leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/anuprajput974/Coding_leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuprajput974/Coding_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/anuprajput974/Coding_leetcode/tree/master/0169-majority-element) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anuprajput974/Coding_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/anuprajput974/Coding_leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anuprajput974/Coding_leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuprajput974/Coding_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/anuprajput974/Coding_leetcode/tree/master/0198-house-robber) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anuprajput974/Coding_leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
