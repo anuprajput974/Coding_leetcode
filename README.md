@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anuprajput974/Coding_leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anuprajput974/Coding_leetcode/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/anuprajput974/Coding_leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anuprajput974/Coding_leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anuprajput974/Coding_leetcode/tree/master/0169-majority-element) |
+| [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0055-jump-game) |
+| [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
