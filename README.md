@@ -85,14 +85,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anuprajput974/Coding_leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/anuprajput974/Coding_leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/anuprajput974/Coding_leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuprajput974/Coding_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anuprajput974/Coding_leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/anuprajput974/Coding_leetcode/tree/master/0070-climbing-stairs) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/anuprajput974/Coding_leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Simulation
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anuprajput974/Coding_leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
