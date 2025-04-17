@@ -123,17 +123,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/anuprajput974/Coding_leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anuprajput974/Coding_leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/anuprajput974/Coding_leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/anuprajput974/Coding_leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/anuprajput974/Coding_leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anuprajput974/Coding_leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/anuprajput974/Coding_leetcode/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/anuprajput974/Coding_leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anuprajput974/Coding_leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/anuprajput974/Coding_leetcode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anuprajput974/Coding_leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
