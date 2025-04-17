@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/anuprajput974/Coding_leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anuprajput974/Coding_leetcode/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/anuprajput974/Coding_leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuprajput974/Coding_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/anuprajput974/Coding_leetcode/tree/master/0198-house-robber) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anuprajput974/Coding_leetcode/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anuprajput974/Coding_leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anuprajput974/Coding_leetcode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anuprajput974/Coding_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/anuprajput974/Coding_leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/anuprajput974/Coding_leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anuprajput974/Coding_leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anuprajput974/Coding_leetcode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/anuprajput974/Coding_leetcode/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
@@ -145,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/anuprajput974/Coding_leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anuprajput974/Coding_leetcode/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -159,9 +165,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anuprajput974/Coding_leetcode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/anuprajput974/Coding_leetcode/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anuprajput974/Coding_leetcode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
