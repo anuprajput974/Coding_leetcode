@@ -27,8 +27,9 @@ public:
         for(int i=1;i<counter-n;i++){
             temp=temp->next;
         }
-        
+        ListNode* todelete=temp->next;
         temp->next=temp->next->next;
+        delete todelete;
         return head;
     }
 };
