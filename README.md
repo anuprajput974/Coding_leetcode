@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/anuprajput974/Coding_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/anuprajput974/Coding_leetcode/tree/master/0725-split-linked-list-in-parts) |
 ## Stack
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anuprajput974/Coding_leetcode/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/anuprajput974/Coding_leetcode/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/anuprajput974/Coding_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/anuprajput974/Coding_leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/anuprajput974/Coding_leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/anuprajput974/Coding_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
