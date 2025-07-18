@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anuprajput974/Coding_leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/anuprajput974/Coding_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/anuprajput974/Coding_leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anuprajput974/Coding_leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anuprajput974/Coding_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/anuprajput974/Coding_leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anuprajput974/Coding_leetcode/tree/master/0200-number-of-islands) |
@@ -197,12 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anuprajput974/Coding_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anuprajput974/Coding_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuprajput974/Coding_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anuprajput974/Coding_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anuprajput974/Coding_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuprajput974/Coding_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
