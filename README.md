@@ -146,10 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/anuprajput974/Coding_leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/anuprajput974/Coding_leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuprajput974/Coding_leetcode/tree/master/0070-climbing-stairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/anuprajput974/Coding_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/anuprajput974/Coding_leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Simulation
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/anuprajput974/Coding_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Memoization
 |  |
