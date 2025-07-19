@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/anuprajput974/Coding_leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0931-maximum-frequency-stack](https://github.com/anuprajput974/Coding_leetcode/tree/master/0931-maximum-frequency-stack) |
+| [0983-validate-stack-sequences](https://github.com/anuprajput974/Coding_leetcode/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/anuprajput974/Coding_leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/anuprajput974/Coding_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
+| [0983-validate-stack-sequences](https://github.com/anuprajput974/Coding_leetcode/tree/master/0983-validate-stack-sequences) |
 | [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/anuprajput974/Coding_leetcode/tree/master/0983-validate-stack-sequences) |
 | [1806-count-of-matches-in-tournament](https://github.com/anuprajput974/Coding_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Memoization
