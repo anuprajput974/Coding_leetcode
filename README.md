@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/anuprajput974/Coding_leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anuprajput974/Coding_leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0931-maximum-frequency-stack](https://github.com/anuprajput974/Coding_leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0983-validate-stack-sequences](https://github.com/anuprajput974/Coding_leetcode/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/anuprajput974/Coding_leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/anuprajput974/Coding_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0496-next-greater-element-i](https://github.com/anuprajput974/Coding_leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
 | [0909-stone-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0909-stone-game) |
 | [0983-validate-stack-sequences](https://github.com/anuprajput974/Coding_leetcode/tree/master/0983-validate-stack-sequences) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anuprajput974/Coding_leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anuprajput974/Coding_leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0503-next-greater-element-ii) |
 ## Recursion
 |  |
 | ------- |
