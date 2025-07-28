@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anuprajput974/Coding_leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anuprajput974/Coding_leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anuprajput974/Coding_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0143-reorder-list) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/anuprajput974/Coding_leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/anuprajput974/Coding_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anuprajput974/Coding_leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/anuprajput974/Coding_leetcode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/anuprajput974/Coding_leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuprajput974/Coding_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/anuprajput974/Coding_leetcode/tree/master/1078-remove-outermost-parentheses) |
