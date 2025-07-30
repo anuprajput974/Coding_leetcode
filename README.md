@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anuprajput974/Coding_leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anuprajput974/Coding_leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anuprajput974/Coding_leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/anuprajput974/Coding_leetcode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/anuprajput974/Coding_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0496-next-greater-element-i](https://github.com/anuprajput974/Coding_leetcode/tree/master/0496-next-greater-element-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anuprajput974/Coding_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/anuprajput974/Coding_leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/anuprajput974/Coding_leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/anuprajput974/Coding_leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
 | [0931-maximum-frequency-stack](https://github.com/anuprajput974/Coding_leetcode/tree/master/0931-maximum-frequency-stack) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anuprajput974/Coding_leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/anuprajput974/Coding_leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/anuprajput974/Coding_leetcode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
 | [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Divide and Conquer
