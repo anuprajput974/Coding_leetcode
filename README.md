@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anuprajput974/Coding_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2689-rearranging-fruits](https://github.com/anuprajput974/Coding_leetcode/tree/master/2689-rearranging-fruits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anuprajput974/Coding_leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
 | [0931-maximum-frequency-stack](https://github.com/anuprajput974/Coding_leetcode/tree/master/0931-maximum-frequency-stack) |
+| [2689-rearranging-fruits](https://github.com/anuprajput974/Coding_leetcode/tree/master/2689-rearranging-fruits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anuprajput974/Coding_leetcode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
 | [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2689-rearranging-fruits](https://github.com/anuprajput974/Coding_leetcode/tree/master/2689-rearranging-fruits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
 | [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2689-rearranging-fruits](https://github.com/anuprajput974/Coding_leetcode/tree/master/2689-rearranging-fruits) |
 ## Depth-First Search
 |  |
 | ------- |
