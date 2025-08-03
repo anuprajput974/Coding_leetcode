@@ -78,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/anuprajput974/Coding_leetcode/tree/master/0983-validate-stack-sequences) |
 | [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anuprajput974/Coding_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anuprajput974/Coding_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2689-rearranging-fruits](https://github.com/anuprajput974/Coding_leetcode/tree/master/2689-rearranging-fruits) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anuprajput974/Coding_leetcode/tree/master/0303-range-sum-query-immutable) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anuprajput974/Coding_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## String
 |  |
 | ------- |
@@ -309,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0909-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anuprajput974/Coding_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Sliding Window
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anuprajput974/Coding_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
