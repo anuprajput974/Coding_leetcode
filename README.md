@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anuprajput974/Coding_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2689-rearranging-fruits](https://github.com/anuprajput974/Coding_leetcode/tree/master/2689-rearranging-fruits) |
+| [3790-fruits-into-baskets-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/anuprajput974/Coding_leetcode/tree/master/0983-validate-stack-sequences) |
 | [1806-count-of-matches-in-tournament](https://github.com/anuprajput974/Coding_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3790-fruits-into-baskets-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/anuprajput974/Coding_leetcode/tree/master/0931-maximum-frequency-stack) |
+| [3790-fruits-into-baskets-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -317,9 +320,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anuprajput974/Coding_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3790-fruits-into-baskets-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/anuprajput974/Coding_leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anuprajput974/Coding_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
