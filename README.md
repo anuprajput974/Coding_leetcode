@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anuprajput974/Coding_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
+| [0792-binary-search](https://github.com/anuprajput974/Coding_leetcode/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/anuprajput974/Coding_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0983-validate-stack-sequences](https://github.com/anuprajput974/Coding_leetcode/tree/master/0983-validate-stack-sequences) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/anuprajput974/Coding_leetcode/tree/master/0792-binary-search) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anuprajput974/Coding_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
