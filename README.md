@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/anuprajput974/Coding_leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/anuprajput974/Coding_leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anuprajput974/Coding_leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0055-jump-game) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anuprajput974/Coding_leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/anuprajput974/Coding_leetcode/tree/master/0792-binary-search) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anuprajput974/Coding_leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/3790-fruits-into-baskets-ii) |
