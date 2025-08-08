@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuprajput974/Coding_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/anuprajput974/Coding_leetcode/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0826-soup-servings](https://github.com/anuprajput974/Coding_leetcode/tree/master/0826-soup-servings) |
 | [0909-stone-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0909-stone-game) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/anuprajput974/Coding_leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/anuprajput974/Coding_leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/anuprajput974/Coding_leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuprajput974/Coding_leetcode/tree/master/0070-climbing-stairs) |
+| [0826-soup-servings](https://github.com/anuprajput974/Coding_leetcode/tree/master/0826-soup-servings) |
 | [0909-stone-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0909-stone-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/anuprajput974/Coding_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/anuprajput974/Coding_leetcode/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/anuprajput974/Coding_leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/anuprajput974/Coding_leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
