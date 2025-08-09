@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/anuprajput974/Coding_leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/anuprajput974/Coding_leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anuprajput974/Coding_leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/anuprajput974/Coding_leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/anuprajput974/Coding_leetcode/tree/master/0826-soup-servings) |
 | [0909-stone-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0909-stone-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/anuprajput974/Coding_leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/anuprajput974/Coding_leetcode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/anuprajput974/Coding_leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/anuprajput974/Coding_leetcode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/anuprajput974/Coding_leetcode/tree/master/0461-hamming-distance) |
 ## Heap (Priority Queue)
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/anuprajput974/Coding_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/anuprajput974/Coding_leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0234-palindrome-linked-list) |
 ## Ordered Set
 |  |
