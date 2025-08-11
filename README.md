@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anuprajput974/Coding_leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuprajput974/Coding_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/anuprajput974/Coding_leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/anuprajput974/Coding_leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/anuprajput974/Coding_leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/anuprajput974/Coding_leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anuprajput974/Coding_leetcode/tree/master/0200-number-of-islands) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/anuprajput974/Coding_leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/anuprajput974/Coding_leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/anuprajput974/Coding_leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/anuprajput974/Coding_leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/anuprajput974/Coding_leetcode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/anuprajput974/Coding_leetcode/tree/master/0461-hamming-distance) |
