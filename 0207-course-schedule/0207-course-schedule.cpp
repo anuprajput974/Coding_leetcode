@@ -4,7 +4,7 @@ public:
         vector<vector<int>> adj(numCourses);
         vector<int> inDegree(numCourses, 0);
 
-        // Build graph
+       
         for (auto& pair : prerequisites) {
             int course = pair[0];
             int prereq = pair[1];
@@ -12,7 +12,7 @@ public:
             inDegree[course]++;
         }
 
-        // Queue for all nodes with in-degree 0
+       
         queue<int> q;
         for (int i = 0; i < numCourses; ++i) {
             if (inDegree[i] == 0)
@@ -32,7 +32,7 @@ public:
             }
         }
 
-        // If we could take all courses
+       
         return takenCourses == numCourses;
     }
 };
