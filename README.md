@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anuprajput974/Coding_leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anuprajput974/Coding_leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/anuprajput974/Coding_leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anuprajput974/Coding_leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/anuprajput974/Coding_leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anuprajput974/Coding_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anuprajput974/Coding_leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/anuprajput974/Coding_leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/anuprajput974/Coding_leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/anuprajput974/Coding_leetcode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/anuprajput974/Coding_leetcode/tree/master/0461-hamming-distance) |
@@ -359,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/anuprajput974/Coding_leetcode/tree/master/0900-reordered-power-of-2) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anuprajput974/Coding_leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
