@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/anuprajput974/Coding_leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/anuprajput974/Coding_leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anuprajput974/Coding_leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/anuprajput974/Coding_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/anuprajput974/Coding_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anuprajput974/Coding_leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/anuprajput974/Coding_leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/anuprajput974/Coding_leetcode/tree/master/0900-reordered-power-of-2) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/anuprajput974/Coding_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anuprajput974/Coding_leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/anuprajput974/Coding_leetcode/tree/master/0900-reordered-power-of-2) |
 | [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anuprajput974/Coding_leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/anuprajput974/Coding_leetcode/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
