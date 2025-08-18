@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuprajput974/Coding_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/anuprajput974/Coding_leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/anuprajput974/Coding_leetcode/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuprajput974/Coding_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/anuprajput974/Coding_leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/anuprajput974/Coding_leetcode/tree/master/0744-network-delay-time) |
 ## Union Find
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/anuprajput974/Coding_leetcode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/anuprajput974/Coding_leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/anuprajput974/Coding_leetcode/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/anuprajput974/Coding_leetcode/tree/master/0744-network-delay-time) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -382,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anuprajput974/Coding_leetcode/tree/master/0078-subsets) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/anuprajput974/Coding_leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
