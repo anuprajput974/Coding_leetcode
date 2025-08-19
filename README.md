@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/anuprajput974/Coding_leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anuprajput974/Coding_leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anuprajput974/Coding_leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/anuprajput974/Coding_leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/anuprajput974/Coding_leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuprajput974/Coding_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/anuprajput974/Coding_leetcode/tree/master/0344-reverse-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/anuprajput974/Coding_leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/anuprajput974/Coding_leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anuprajput974/Coding_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0143-reorder-list) |
