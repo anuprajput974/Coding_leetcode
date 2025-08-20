@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/anuprajput974/Coding_leetcode/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0909-stone-game) |
+| [0917-boats-to-save-people](https://github.com/anuprajput974/Coding_leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/anuprajput974/Coding_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0983-validate-stack-sequences](https://github.com/anuprajput974/Coding_leetcode/tree/master/0983-validate-stack-sequences) |
 | [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anuprajput974/Coding_leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anuprajput974/Coding_leetcode/tree/master/0344-reverse-string) |
+| [0917-boats-to-save-people](https://github.com/anuprajput974/Coding_leetcode/tree/master/0917-boats-to-save-people) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/anuprajput974/Coding_leetcode/tree/master/0900-reordered-power-of-2) |
+| [0917-boats-to-save-people](https://github.com/anuprajput974/Coding_leetcode/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2689-rearranging-fruits](https://github.com/anuprajput974/Coding_leetcode/tree/master/2689-rearranging-fruits) |
 ## Divide and Conquer
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anuprajput974/Coding_leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/anuprajput974/Coding_leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/anuprajput974/Coding_leetcode/tree/master/0621-task-scheduler) |
+| [0917-boats-to-save-people](https://github.com/anuprajput974/Coding_leetcode/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/anuprajput974/Coding_leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2689-rearranging-fruits](https://github.com/anuprajput974/Coding_leetcode/tree/master/2689-rearranging-fruits) |
 ## Depth-First Search
