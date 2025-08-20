@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anuprajput974/Coding_leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/anuprajput974/Coding_leetcode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/anuprajput974/Coding_leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/anuprajput974/Coding_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/anuprajput974/Coding_leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0496-next-greater-element-i](https://github.com/anuprajput974/Coding_leetcode/tree/master/0496-next-greater-element-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anuprajput974/Coding_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/anuprajput974/Coding_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/anuprajput974/Coding_leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anuprajput974/Coding_leetcode/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anuprajput974/Coding_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
